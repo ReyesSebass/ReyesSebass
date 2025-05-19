@@ -78,7 +78,9 @@ Hi 👋! My name is Sebastián Reyes Bonilla, I'm 19 years old and I'm a Junior 
 ## 📬 Contact
 
 <p>
-  <a href="mailto:sebastianreyesb12@gmail.com?subject=Hola%20Sebastián&body=Quiero%20contactarte%20por..."><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:sebastianreyesb12@gmail.com?subject=Hola%20Sebastián&body=Quiero%20contactarte%20por..."><img src="https://img.shields.io/static/v1? 
+     message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/sebastian-reyes-00447330b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://wa.me/85051218"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://wa.me/+50685051218?text=Hola%20Sebastián%2C%20quiero%20hablar%20contigo%20sobre...""><img src="https://img.shields.io/static/v1? 
+     message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" /></a>
 </p>

@@ -1,6 +1,6 @@
 <!-- HEADER - Visual Identity -->
 <h1 align="center">
-  <img src="https://github.com/ReyesSebass/ReyesSebass/assets/yourimage.png" width="80" height="80" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/736x/1e/fe/1d/1efe1da272edae91ccf0e1af0be374cf.jpg" width="80" height="80" style="border-radius: 50%;" />
   Sebastián Reyes Bonilla
 </h1>
 <h3 align="center">💻 Junior Fullstack Developer | 19 y/o | Passionate about tech and problem-solving</h3>

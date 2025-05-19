@@ -34,7 +34,6 @@ Hi 👋! My name is Sebastián Reyes Bonilla, I'm 19 years old and I'm a Junior 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
 </p>
 
 ### 🗄️ Databases
@@ -44,11 +43,6 @@ Hi 👋! My name is Sebastián Reyes Bonilla, I'm 19 years old and I'm a Junior 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
 </p>
 
-### 🧱 Frameworks & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <!-- Puedes agregar más aquí -->
-</p>
 
 ---
 

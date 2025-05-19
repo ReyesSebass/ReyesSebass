@@ -47,6 +47,7 @@ Hi 👋! My name is Sebastián Reyes Bonilla, I'm 19 years old and I'm a Junior 
 #### 🗄️ Bases de Datos
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" />
 </div>
 

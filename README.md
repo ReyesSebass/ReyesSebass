@@ -1,7 +1,6 @@
 <!-- Foto y nombre -->
 <table align="center">
   <tr>
-    <td><img src="https://es.pinterest.com/pin/229261437278449978/" height="100"" /></td>
     <td><h1 style="margin-left: 15px;">Sebastián Reyes Bonilla</h1></td>
   </tr>
 </table>

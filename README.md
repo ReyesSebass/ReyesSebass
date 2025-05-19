@@ -1,7 +1,7 @@
 <!-- Foto y nombre -->
 <table align="center">
   <tr>
-    <td><img src="https://github.com/ReyesSebass/ReyesSebass/assets/your-image.png" height="100" style="border-radius: 50%;" /></td>
+    <td><img src="[https://github.com/ReyesSebass/ReyesSebass/assets/your-image.png](https://chatgpt.com/c/682a7075-0478-8002-a9c8-3bb7befa1253)" height="100" style="border-radius: 50%;" /></td>
     <td><h1 style="margin-left: 15px;">Sebastián Reyes Bonilla</h1></td>
   </tr>
 </table>

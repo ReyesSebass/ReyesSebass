@@ -21,6 +21,19 @@ Hi 👋! My name is Sebastián Reyes Bonilla, I'm 19 years old and I'm a Junior 
 
 ---
 
+### 🧠 Soft Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Trabajo%20en%20equipo-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Comunicación%20efectiva-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gestión%20del%20tiempo-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resolución%20de%20problemas-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptabilidad-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proactividad-purple?style=for-the-badge" />
+</p>
+
+---
+
 ### 🧠 Tecnologías que manejo
 
 #### 🎨 Frontend

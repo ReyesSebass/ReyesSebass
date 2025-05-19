@@ -1,7 +1,7 @@
 <!-- Foto y nombre -->
 <table align="center">
   <tr>
-    <td><img src="C:\Users\sebas\Downloads\ChatGPT Image 18 may 2025, 06_52_38 p.m..png" height="100" style="border-radius: 50%;" /></td>
+    <td><img src="https://es.pinterest.com/pin/229261437278449978/" height="100" style="border-radius: 50%;" /></td>
     <td><h1 style="margin-left: 15px;">Sebastián Reyes Bonilla</h1></td>
   </tr>
 </table>
